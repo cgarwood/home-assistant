@@ -84,5 +84,6 @@ FLOWS = [
     "wwlln",
     "zha",
     "zone",
-    "zwave"
+    "zwave",
+    "zwave_mqtt"
 ]
